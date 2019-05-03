@@ -24,7 +24,7 @@ Features are available [here](https://www.di.ens.fr/~dzhukov/crosstask/crosstask
 
 Temporal constraints, extracted from narration are available [here](https://www.di.ens.fr/~dzhukov/crosstask/crosstask_constraints.zip).
 
-**Update 30/05/2019:** added videos_val.csv with validation set from the paper, removed extra lines from the constraints.
+**Update 30/06/2019:** added videos_val.csv with validation set from the paper, removed extra lines from the constraints.
 
 ## Code
 Provided code can be used to train and evaluate the component model, proposed in the paper, on CrossTask dataset. 
