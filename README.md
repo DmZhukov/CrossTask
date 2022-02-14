@@ -26,6 +26,8 @@ Temporal constraints, extracted from narration are available [here](https://www.
 
 **Update 30/06/2019:** added videos_val.csv with validation set from the paper, removed extra lines from the constraints.
 
+**Update 14/02/2022:** Use [this](https://www.rocq.inria.fr/cluster-willow/dzhukov/missing_videos.tar.gz) link to download the videos, which are no longer available on YouTube. Subtitles for the videos are available [here](https://www.rocq.inria.fr/cluster-willow/dzhukov/crosstask-subtitles.tar.gz).
+
 ## Code
 Provided code can be used to train and evaluate the component model, proposed in the paper, on CrossTask dataset. 
 It was tested with Python 3.7, PyTorch 1.0, NumPy 1.16 and Cython 0.29. 
